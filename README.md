@@ -39,3 +39,8 @@ We use lots of symbols in code. However, names for these symbols are often long 
 - `{`: open curly brace → o-cur ("ochre")
 - `}`: close curly brace → c-cur ("seeker")
 - `~`: tilde → curl
+- `w`: double u → dub
+- `7`: seven → sev
+- `11`: eleven → lev (as in "bush did nine lev")
+- `🥦`: broccoli → brocc
+- `🐒`: monkey → 猴（"猴")
