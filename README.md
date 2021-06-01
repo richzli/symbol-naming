@@ -30,7 +30,7 @@ We use lots of symbols in code. However, names for these symbols are often long 
 - `;`: semicolon → sly
 - `<`: less than, open angle bracket → laa, lang
 - `=`: equals → eq ("eek")
-- `>`: greater than, close angle bracket → gaa, gang
+- `>`: greater than, close angle bracket → gaa, gang, rang
 - `?`: question mark → rog
 - `[`: open square bracket → o-br
 - `\`: backslash → slant
