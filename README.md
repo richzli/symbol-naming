@@ -5,7 +5,7 @@ We use lots of symbols in code. However, names for these symbols are often long 
 ### Extant
 
 - `!`: bang
-- `#`: sharp, pound
+- `#`: sharp, pound, hash
 - `&`: and
 - `*`: star
 - `+`: plus
@@ -21,11 +21,11 @@ We use lots of symbols in code. However, names for these symbols are often long 
 ### Proposed Changes
 
 - `"`: double quote → quote
-- `$`: dollar sign → dol
+- `$`: dollar sign → dol, shill
 - `%`: percent → pers
 - `'`: single quote → dit
 - `(`: open parenthesis → o-per
-- `)`: close parenthesis → c-per ("seeper")
+- `)`: close parenthesis → clo-per
 - `:`: colon → col ("cole")
 - `;`: semicolon → sly
 - `<`: less than, open angle bracket → lang
@@ -34,8 +34,8 @@ We use lots of symbols in code. However, names for these symbols are often long 
 - `?`: question mark → rog ("rawg")
 - `[`: open square bracket → o-ser ("oh-sir")
 - `\`: backslash → slant
-- `]`: close square bracket → c-ser ("see-sir")
+- `]`: close square bracket → clo-ser ("closer")
 - `_`: underscore → dun ("done")
 - `{`: open curly brace → o-cur ("ochre")
-- `}`: close curly brace → c-cur ("seeker")
+- `}`: close curly brace → clo-cur ("cloaker")
 - `~`: tilde → curl
