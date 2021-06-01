@@ -32,10 +32,10 @@ We use lots of symbols in code. However, names for these symbols are often long 
 - `=`: equals → eq ("eek")
 - `>`: greater than, close angle bracket → rang
 - `?`: question mark → rog ("rawg")
-- `[`: open square bracket → o-br ("oh-brr")
+- `[`: open square bracket → o-ser ("oh-sir")
 - `\`: backslash → slant
-- `]`: close square bracket → c-br ("see-brr")
+- `]`: close square bracket → c-ser ("see-sir")
 - `_`: underscore → dun ("done")
-- `{`: open curly brace → o-cur
-- `}`: close curly brace → c-cur
+- `{`: open curly brace → o-cur ("ochre")
+- `}`: close curly brace → c-cur ("seeker")
 - `~`: tilde → curl
