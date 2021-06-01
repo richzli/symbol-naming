@@ -25,17 +25,17 @@ We use lots of symbols in code. However, names for these symbols are often long 
 - `%`: percent → pers
 - `'`: single quote → dit
 - `(`: open parenthesis → o-per
-- `)`: close parenthesis → c-per
+- `)`: close parenthesis → c-per ("seeper")
 - `:`: colon → col ("cole")
 - `;`: semicolon → sly
-- `<`: less than, open angle bracket → laa, lang
+- `<`: less than, open angle bracket → lang
 - `=`: equals → eq ("eek")
-- `>`: greater than, close angle bracket → gaa, rang
-- `?`: question mark → rog
-- `[`: open square bracket → o-br
+- `>`: greater than, close angle bracket → rang
+- `?`: question mark → rog ("rawg")
+- `[`: open square bracket → o-br ("oh-brr")
 - `\`: backslash → slant
-- `]`: close square bracket → c-br
-- `_`: underscore → dun
+- `]`: close square bracket → c-br ("see-brr")
+- `_`: underscore → dun ("done")
 - `{`: open curly brace → o-cur
 - `}`: close curly brace → c-cur
 - `~`: tilde → curl
